@@ -1,0 +1,11 @@
+[
+  {
+    "id": "123",
+    "firstName": "rich",
+    "lastName": "lanir-halfar",
+    "isActive": true,
+    "cash": 2000,
+    "credit": 15000,
+    "passport": "1212121"
+  }
+]
