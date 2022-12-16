@@ -1,0 +1,20 @@
+form{
+  color: white;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 500px;
+  width: 80%;
+  background-color:cadetblue;
+  margin: 50px auto;
+}
+
+.input-container{
+  display: flex;
+  flex-direction: column;
+}
+
+input , select {
+  height: 50px;
+  width: 250px;
+}
